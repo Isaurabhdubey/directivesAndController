@@ -6,8 +6,8 @@ This project is for understanding of the directive and controller how the direct
 1. Clone the project or fork this project.
 2. node version required is ~6.8.0.
 3. gulp should be installed globally.
-4. npm install.
-5. bower install
+> npm install.
+> bower install
 
 # run
 > gulp serve
