@@ -3,11 +3,11 @@
 This project is for understanding of the directive and controller how the directive-controller is connect with controller where the directive is called.
 
 # steps
-Clone the project or fork this project
-node version required is ~6.8.0
-> npm install
-> bower install
-gulp should be installed globally
+1. Clone the project or fork this project.
+2. node version required is ~6.8.0.
+3. gulp should be installed globally.
+4. npm install.
+5. bower install
 
 # run
 > gulp serve
